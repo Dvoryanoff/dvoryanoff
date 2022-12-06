@@ -14,3 +14,5 @@
 [![codewars](https://www.codewars.com/users/Dvoryanoff/badges/large)](https://www.codewars.com/users/username) 
 
 ![](https://komarev.com/ghpvc/?username=dvoryanoff)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
