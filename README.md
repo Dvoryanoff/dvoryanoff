@@ -11,4 +11,4 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=grey)
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://www.codewars.com/users/Dvoryanoff/badges/large)
+[![codewars](https://www.codewars.com/users/Dvoryanoff/badges/large)](https://www.codewars.com/users/username) 
