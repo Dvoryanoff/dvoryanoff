@@ -24,8 +24,6 @@
 <h3 align="left">Also i use:</h3>
 <p align="left">
  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-plastic&logo=unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=plastic&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
